@@ -7,3 +7,4 @@ function fun(name){
 fun("thorat");
 
 console.log("hello hero");
+console.log("om thorat");
