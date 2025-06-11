@@ -5,3 +5,5 @@ function fun(name){
 }
 
 fun("thorat");
+
+console.log("hello hero");
