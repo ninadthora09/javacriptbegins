@@ -17,4 +17,15 @@ console.log("om thorat");
 
  console.log(val.name);
  console.log(val.gender);
-console.log("kay re kay karrto")
+
+ const accountID=1334
+ let accountEmail="ninadthora4@gamail.com";
+ var accountPassword ="12345";
+ accounCity ="Jaipur";
+ let state;
+ 
+ console.table([accountEmail,accountID,accountPassword,accounCity,state])
+ 
+
+ 
+
