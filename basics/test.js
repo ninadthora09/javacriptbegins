@@ -17,15 +17,19 @@ console.log("om thorat");
 
  console.log(val.name);
  console.log(val.gender);
-
+// #1
  const accountID=1334
  let accountEmail="ninadthora4@gamail.com";
  var accountPassword ="12345";
  accounCity ="Jaipur";
  let state;
- 
+//  prefer not use the use
  console.table([accountEmail,accountID,accountPassword,accounCity,state])
  
+//  #2 datatypes
+"use strict";// treat all JS code as newer version
 
- 
+// alert("hello") use the node js not the browsers
+
+
 
