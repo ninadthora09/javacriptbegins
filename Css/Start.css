@@ -1,0 +1,28 @@
+/* css cascading style sheets real life website */
+/* language that descibes the style of a document */
+/* properties html should be applid on the content that is html */
+/* smart web devloper */
+
+
+/*#1 Inline style  */
+/* <h1 style="color:red">Ninad</h1> */
+
+/* <p style="color:green">This is my Paragragh</p> */
+/* <button style="color:blue"; background-color:orange>help</button>*/
+
+/* #2 style tag in the head tag of html */
+
+/* #3 external css */
+/* external style sheet that is this file that contents the style */
+
+h1{
+    color:red; 
+    /* semicolon is important */
+    /* Property & value */
+    background-color: black;
+}
+
+h2{
+    color:green;
+    background-color :blue;
+}
